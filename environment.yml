@@ -5,5 +5,7 @@ dependencies:
   - python
   - numpy
   - pip
+  - scikit-learn
+  - nltk
   - pip:
     - pandas
